@@ -48,5 +48,3 @@
     <li>Chosing the model;</li>
     <li>Saving the model;</li>
 </ol>
-
-<h2>1. Importing libraries:</h2>
